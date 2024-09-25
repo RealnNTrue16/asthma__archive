@@ -1,0 +1,15 @@
+.body {
+  margin: 0px;
+  /*   overflow: hidden; */
+}
+
+.page {
+  background-color: gray;
+  color: black;
+  overflow: hidden;
+}
+
+.page__content {
+  margin: 0;
+  padding: 30px;
+}

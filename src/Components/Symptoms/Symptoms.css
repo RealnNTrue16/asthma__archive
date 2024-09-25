@@ -1,0 +1,39 @@
+.about__symptoms_list {
+  text-align: center;
+  list-style-type: none;
+}
+.about__symptoms {
+  text-align: center;
+  /*  border-bottom: 1px solid black; */
+}
+
+.about__symptoms_description {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.about__symptom {
+  margin: 35px;
+}
+
+.about__other_symptoms {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.about__other_symptoms-list {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+}
+
+.about__other_symptom {
+  margin: 35px;
+}
+
+.about__back-button {
+  background: transparent;
+
+  width: 30px;
+  height: 30px;
+}
